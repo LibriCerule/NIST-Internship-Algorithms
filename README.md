@@ -1,3 +1,3 @@
 # NIST Internship Algorithms
-# mM Converter
-# azAZ Converter
+mM Converter
+azAZ Converter
