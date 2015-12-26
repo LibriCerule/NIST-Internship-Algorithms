@@ -8,6 +8,12 @@ A simple converter written in Python 2.7 that takes in a file and returns an out
 A similarly simple script written in Python 2.7 that takes in a file and returns an out.txt file that contains the original file contents with lowercase letters replaced with uppercase letters and vice versa.
 
 ## Execution
+mMChange.py:
 ```
 python2 mMChange.py in.txt
+```
+
+azchange.py:
+```
+python2 azchange.py in.txt
 ```
